@@ -1,0 +1,187 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p0004.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "なにことりいせんそやそふ"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=1685,231,43,698"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "またおとなふ人有之十二時"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=1576,219,103,736"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "よきともなりしにいかへに生"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=1505,221,73,724"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "も御伝授の秘法をは"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=1416,223,98,705"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "じめてコクリ〳〵と致し"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=1337,226,72,715"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "候やうのも、御宅に得たる"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=1261,227,83,715"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "負債有とう〳〵払下候歟と"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=1151,225,105,719"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "小座御一笑より置候"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=1069,227,89,513"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "ふさ中はいろ〳〵と御"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=978,227,81,699"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "厄介手取来り有五郎たき"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=868,224,104,712"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "仕合せと存し候此上とても"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=791,237,94,691"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "御手紙十五にてもの"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=692,236,100,688"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "御米孝給はりゝそ上"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=586,237,100,690"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "ねがひまゐらするは此事に"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=507,238,90,694"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "御母被様の所へし候"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=392,323,104,579"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "御目捨退残されて"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=299,332,128,588"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "一剤もはや上御令快"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=204,357,118,559"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "かことも祈りまらはし"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0004.json#xywh=100,354,104,570"
+    }
+  ]
+}

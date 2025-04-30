@@ -1,0 +1,27 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p0007.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "薄田泣菫戯画入書仕同"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0007.json#xywh=834,61,75,436"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "角田温角田治泉"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0007.json#xywh=872,496,49,187"
+    }
+  ]
+}

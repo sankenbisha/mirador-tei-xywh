@@ -1,0 +1,37 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p0006.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "ナケ"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0006.json#xywh=1699,429,29,518"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "薄田徳蔵"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0006.json#xywh=1600,446,95,483"
+    },
+    {
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "resource": {
+        "@type": "dctypes:Text",
+        "format": "text/plain",
+        "chars": "わが著続明治文学史に収至"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0006.json#xywh=1430,477,58,499"
+    }
+  ]
+}
