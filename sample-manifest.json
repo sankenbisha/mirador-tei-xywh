@@ -8,7 +8,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0001",
+          "@id": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00001",
           "@type": "sc:Canvas",
           "label": "ページ 1",
           "height": 1000,
@@ -18,18 +18,180 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p0001.jpg",
+                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p00001.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1000,
                 "width": 800
               },
-              "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0001"
+              "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00001"
             }
           ],
           "otherContent": [
             {
-              "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p0001.json",
+              "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p00001.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00002",
+          "@type": "sc:Canvas",
+          "label": "ページ 2",
+          "height": 1000,
+          "width": 800,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p00002.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 800
+              },
+              "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00002"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p00002.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00003",
+          "@type": "sc:Canvas",
+          "label": "ページ 3",
+          "height": 1000,
+          "width": 800,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p00003.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 800
+              },
+              "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00003"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p00003.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00004",
+          "@type": "sc:Canvas",
+          "label": "ページ 4",
+          "height": 1000,
+          "width": 800,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p00004.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 800
+              },
+              "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00004"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p00004.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00005",
+          "@type": "sc:Canvas",
+          "label": "ページ 5",
+          "height": 1000,
+          "width": 800,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p00005.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 800
+              },
+              "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00005"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p00005.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00006",
+          "@type": "sc:Canvas",
+          "label": "ページ 6",
+          "height": 1000,
+          "width": 800,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p00006.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 800
+              },
+              "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00006"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p00006.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
+        },
+        {
+          "@id": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00007",
+          "@type": "sc:Canvas",
+          "label": "ページ 7",
+          "height": 1000,
+          "width": 800,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p00007.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1000,
+                "width": 800
+              },
+              "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p00007"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p00007.json",
               "@type": "sc:AnnotationList"
             }
           ]
