@@ -1,5 +1,17 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://sankenbisha.github.io/mirador-tei-xywh/annotations/bunko14_c0091_p0001.json",
   "@type": "sc:AnnotationList",
-  "resources": []
+  "resources": [
+    {
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "テスト注釈"
+      },
+      "on": "https://sankenbisha.github.io/mirador-tei-xywh/canvas/bunko14_c0091_p0001#xywh=100,100,300,100"
+    }
+  ]
 }
