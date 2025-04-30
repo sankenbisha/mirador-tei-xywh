@@ -18,7 +18,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p00001.jpg",
+                "@id": "https://sankenbisha.github.io/mirador-tei-xywh/images/bunko14_c0091_p0001.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 1000,
